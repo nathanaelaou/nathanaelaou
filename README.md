@@ -4,10 +4,9 @@
 Glad to see you here! I'm Nathanael Aou, a **CS Major at Purdue University**. I have a strong background in **Full Stack Web Development** and **Machine Learning** and I'll be a Software Engineering Intern at **Meta** this summer!
 
 
-
 ### Tech Stack
 
-I mostly work with **Python** and **JavaScript**, specifically **Node.js** in the backend with **AWS** as the cloud and **Kafka** as the queuing system. Recently, I have been tinkering with **Dart**.
+I primarily work with **Python** and **JavaScript**, using **Node.js** for backend development with **Supabase** as my go-to database platform. Lately, I’ve been exploring **Dart** to build cross-platform mobile applications.
 
 #### 🖥️ Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -49,7 +48,7 @@ I mostly work with **Python** and **JavaScript**, specifically **Node.js** in th
 
 ### Let's connect!
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nathanaelaou-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanael-aou)
 
 **Let's code, connect, and create awesome things together!**
 
