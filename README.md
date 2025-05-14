@@ -1,11 +1,7 @@
 <h1 align='center'>👋 Hello!</h1>
 
 
-Glad to see you here! I'm Nathanael Aou, a **Software Engineer** with a strong passion for **Python** and **open-source**. 
-
-
-### Featured blogs/articles
-
+Glad to see you here! I'm Nathanael Aou, a **CS Major at Purdue University**. I have a strong background in **Full Stack Web Development** and **Machine Learning** and I'll be a Software Engineering Intern at **Meta** this summer!
 
 
 
